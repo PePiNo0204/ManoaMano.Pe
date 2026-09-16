@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Mano a Mano DB (Bagua)",
+      "Group": "Servidores Locales",
+      "Host": "postgres",
+      "Port": 5432,
+      "MaintenanceDB": "manoamano_db",
+      "Username": "postgres",
+      "SSLMode": "prefer"
+    }
+  }
+}
